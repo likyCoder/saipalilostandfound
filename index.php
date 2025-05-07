@@ -250,26 +250,46 @@ session_start();
 </section>
 
 <!-- HOW IT WORKS -->
-<section class="section" style="background-image: url('assets/images/bg1.jpg');" data-aos="fade-up">
-  <div class="overlay"></div>
-  <div class="section-content container">
-    <h2>How It Works</h2>
-    <div class="row text-center">
-      <div class="col-md-4" data-aos="fade-up">
-        <h5>1. Report</h5>
-        <p>Submit a detailed report of the item you lost or found.</p>
+<!-- HOW IT WORKS -->
+<section class="section position-relative py-5 text-white" style="background-image: url('assets/images/bg1.jpg'); background-size: cover; background-position: center;" data-aos="fade-up">
+  <!-- Dark overlay -->
+  <div class="position-absolute top-0 start-0 w-100 h-100" style="background-color: rgba(0, 0, 40, 0.75); z-index: 1;"></div>
+
+  <!-- Content -->
+  <div class="container position-relative z-2 text-center">
+    <h2 class="mb-5 fw-bold text-uppercase" style="letter-spacing: 1px;">How It Works</h2>
+
+    <div class="row g-4">
+      <!-- Step 1 -->
+      <div class="col-md-4" data-aos="fade-up" data-aos-delay="100">
+        <div class="p-4 rounded-4 bg-dark bg-opacity-75 shadow text-white h-100">
+          <div class="mb-3 display-6">📝</div>
+          <h5 class="fw-semibold">1. Report</h5>
+          <p class="small">Submit a detailed report of the item you lost or found to start the process.</p>
+        </div>
       </div>
-      <div class="col-md-4" data-aos="fade-in">
-        <h5>2. Search</h5>
-        <p>Check listings that match your report to find your item.</p>
+
+      <!-- Step 2 -->
+      <div class="col-md-4" data-aos="fade-up" data-aos-delay="200">
+        <div class="p-4 rounded-4 bg-dark bg-opacity-75 shadow text-white h-100">
+          <div class="mb-3 display-6">🔍</div>
+          <h5 class="fw-semibold">2. Search</h5>
+          <p class="small">Browse or search item listings that match your description and location.</p>
+        </div>
       </div>
-      <div class="col-md-4" data-aos="fade-down">
-        <h5>3. Reunite</h5>
-        <p>Contact the finder or owner and get reunited with your belongings.</p>
+
+      <!-- Step 3 -->
+      <div class="col-md-4" data-aos="fade-up" data-aos-delay="300">
+        <div class="p-4 rounded-4 bg-dark bg-opacity-75 shadow text-white h-100">
+          <div class="mb-3 display-6">🤝</div>
+          <h5 class="fw-semibold">3. Reunite</h5>
+          <p class="small">Contact the owner or finder and safely reconnect with your belongings.</p>
+        </div>
       </div>
     </div>
   </div>
 </section>
+
 
 <!-- FOOTER -->
 
