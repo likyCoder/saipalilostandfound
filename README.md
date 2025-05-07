@@ -5,7 +5,9 @@ This is a PHP-based web application designed to manage a Lost and Found system. 
 ---
 ### Demo 
 
-[!screenshot]()
+![Screenshot 2023-10-21 154835](https://github.com/likyCoder/saipalilostandfound/blob/main/assets/screenshot/shot1.png)
+
+
 
 ## Features
 
