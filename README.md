@@ -98,7 +98,7 @@ For any queries or issues, please contact [likyCoder.](https:likyjosh.likesyou.o
 
 ### Other screenshots
 ## Screenshot
-![Screenshot 2023-10-21 154835](https://github.com/likyCoder/saipalilostandfound/blob/main/assets/screenshot/shot.png)
+![Screenshot 2023-10-21 154835](https://github.com/likyCoder/saipalilostandfound/blob/main/assets/images/pic.png)
 
 ## Screenshot
 ![Screenshot 2023-10-21 154835](https://github.com/likyCoder/saipalilostandfound/blob/main/assets/screenshot/shot2.png)
