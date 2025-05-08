@@ -159,7 +159,7 @@ session_start();
   <div class="overlay"></div>
   <div class="section-content">
     <h1>Sai Pali Lost & Found</h1>
-    <p>Helping our school community reconnect with lost items every day</p>
+    <p>Helping our school community reconnect with lost and found items every day</p> 
     <a href="report-lost.php" class="btn-primary">Report Lost</a>
     <a href="browse.php" class="btn btn-outline-light">Browse Listings</a>
   </div>
@@ -170,7 +170,7 @@ session_start();
   <div class="overlay"></div>
   <div class="section-content">
     <h2>Lost Something?</h2>
-    <p>Report your lost item with a few simple details. We’ll help reconnect it with you.</p>
+    <p>Report your lost item with a few simple details. We’ll help reconnect the owner with you.</p>
     <a href="report-lost.php" class="cta-btn">Submit Lost Report</a>
   </div>
 </section>
@@ -212,7 +212,7 @@ session_start();
   <div class="overlay"></div>
   <div class="section-content">
     <h2>Found Something?</h2>
-    <p>Do a good deed—report the item you found so we can return it to its owner.</p>
+    <p>Do a good deed report the item you found so we can return it to its owner.</p>
     <a href="report-found.php" class="cta-btn">Report Found Item</a>
   </div>
 </section>
